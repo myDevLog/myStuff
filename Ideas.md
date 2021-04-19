@@ -1,9 +1,12 @@
 
 # **My Future Programming Plans:**
 
-### **Ideas for Future Projects (Applications):**
+
+### **Project Ideas for Applications:**
 - [ ] Infi-Storage (currently paused)
 - [ ] To-Do-List Application
+- [ ] Website which visualizes Sorting-Algorithms
+- [ ] Website which visualizes Pathfinding-Algorithms (on a Grid and or a Tree)
 
 
 ### **Project Ideas for Embedded Systems:**
@@ -18,7 +21,7 @@
 - [ ] Soapbox from a Garbagecan
 
 
-### **Ideas for Future Projects (Games):**
+### **Project Ideas for Games:**
 - [ ] Recreating Tetris
 - [ ] Recreating Arcanoid
 - [ ] Recreating Blasteroid
