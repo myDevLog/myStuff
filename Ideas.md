@@ -10,7 +10,7 @@
 
 
 ### **Project Ideas for Embedded Systems:**
-- [ ] Project Wakey Wakey (An Alarm Clock from an Arduino)
+- [x] Project Wakey Wakey (An Alarm Clock from an Arduino)
   -> The Idea is that this Alarm Clock wakes the User with Light instead of a Sound
 - [ ] Raisins/Peanut Tank
 - [ ] Coil-Gun
