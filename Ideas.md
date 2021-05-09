@@ -3,7 +3,7 @@
 
 
 ### **Project Ideas for Applications:**
-- [ ] Infi-Storage (currently paused)
+- [ ] Infi-Storage
 - [ ] To-Do-List Application
 - [ ] Website which visualizes Sorting-Algorithms
 - [ ] Website which visualizes Pathfinding-Algorithms (on a Grid and or a Tree)
@@ -15,7 +15,7 @@
 - [ ] Raisins/Peanut Tank
 - [ ] Coil-Gun
 - [ ] Rail-Gun
-- [ ] Red Alert Button from Evil Genius 2 (Turns the Light in my Room Red and makes the larm Sound)
+- [ ] Red Alert Button from Evil Genius 2 (Turns the Light in my Room Red and makes the alarm Sound)
 - [ ] Racing Car which plays "Gas Gas Gas"
 - [ ] Shopping Cart with electric Motors which is remote controlled
 - [ ] Soapbox from a Garbagecan
