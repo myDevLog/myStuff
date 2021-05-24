@@ -19,6 +19,7 @@
 - [ ] Racing Car which plays "Gas Gas Gas"
 - [ ] Shopping Cart with electric Motors which is remote controlled
 - [ ] Soapbox from a Garbagecan
+- [ ] Mini-Radar
 
 
 ### **Project Ideas for Games:**
